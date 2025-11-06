@@ -58,15 +58,6 @@ open index.html
 ```
 
 ---
-
-## 📬 Contato
-
-- 📧 Email: celiarr.neves2@gmail.com
-- 📱 WhatsApp: +55 (47) 988696196
-- 📍 Balneário Camboriú, SC
-
----
-
 <div align="center">
 
 ### 💜 Desenvolvido com Dedicação e muito café!!
