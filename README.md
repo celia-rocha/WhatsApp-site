@@ -5,7 +5,7 @@
 ### Interface estática inspirada no WhatsApp Web
 
 [![Site](https://img.shields.io/badge/🌐_Ver_Projeto-25D366?style=for-the-badge)](https://celia-rocha.github.io/WhatsApp-site/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/celia-rocha/WhatsApp-site)
+
 
 </div>
 
