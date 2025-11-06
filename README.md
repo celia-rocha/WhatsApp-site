@@ -62,6 +62,4 @@ open index.html
 
 ### 💜 Desenvolvido com Dedicação e muito café!!
 
-[![Portfólio](https://img.shields.io/badge/🌐_Visite_meu_portfólio-ff00ff?style=for-the-badge)](https://celia-rocha.github.io/Meu-Portfolio/)
-
 </div>
